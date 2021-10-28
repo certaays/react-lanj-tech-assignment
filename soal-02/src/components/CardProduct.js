@@ -33,7 +33,7 @@ CardProduct.propTypes = {
   addToCart: PropTypes.func
 }
 
-CardProduct.defaulProps = {
+CardProduct.defaultProps = {
   name: "",
   image: "",
   addToCart: function(){
